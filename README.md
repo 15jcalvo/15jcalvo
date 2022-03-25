@@ -18,13 +18,17 @@
 
 <h3>Other Work Experience</h3>
 <h4>Teaching Fellow at Boston University (2020-2021):</h4> 
-<p>Taught general chemistry while studying computational materials chemistry.<p>
-Research Chemist at So Lab Chico (2018-2020): Synthesized and characterized novel hybrid nanomaterials for use in electronics and water filtration leading to two peer-reviewed publications.
-Research Chemist at Zhang Research Group (2017-2020): Synthesized and characterized organic molecules for use in quantum dot interfaces.
-Research Intern at Sandia National Laboratories (Summer 2018 and 2019): Synthesized and characterized one of only a half dozen known electronically conductive metal-organic frameworks. Developed prototype artificial synapses for use in “hard” neural networks.
-Carpenter at PeopleReady (2016-2017): Performed framing, rough, and finish woodwork.
+<p>-Taught general chemistry while studying computational materials chemistry.<p>
+<h4>Research Chemist at So Lab Chico (2018-2020):</h4>
+<p>-Synthesized and characterized novel hybrid nanomaterials for use in electronics and water filtration leading to two peer-reviewed publications.</p>
+<h4>Research Chemist at Zhang Research Group (2017-2020):</h4>
+<p>-Synthesized and characterized organic molecules for use in quantum dot interfaces.</p>
+<h4>Research Intern at Sandia National Laboratories (Summer 2018 and 2019):</h4>
+<p>-Synthesized and characterized one of only a half dozen known electronically conductive metal-organic frameworks. Developed prototype artificial synapses for use in “hard” neural networks.</p>
+<h4>Carpenter at PeopleReady (2016-2017):</h4> 
+<p>-Performed framing, rough, and finish woodwork.</p>
 
-Education
-California State University, Chico (2015-2020): B.S. Chemistry, Mathematics minor
-Boston University (2020-2021): Graduate Student Materials Science and Engineering
-Bloomtech (2021-2022): Full Stack Development
+<h3>Education</h3>
+<h4>California State University, Chico (2015-2020): B.S. Chemistry, Mathematics minor</h4>
+<h4>Boston University (2020-2021): Graduate Student Materials Science and Engineering</h4>
+<h4>Bloomtech (2021-2022): Full Stack Development</h4>
