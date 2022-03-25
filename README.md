@@ -1,9 +1,9 @@
 <h3>Key development knowledge: </h3> <p>Javascript/Typescript, React/Angular, Redux/ContextAPI, RESTful APIs (express/NestJS), Node.js, JSON web tokens, cookies, HTTP requests, SQL, HTML, CSS, Bootstrap, CLI, git, bash </p>
 
 <h3>Development Work Experience</h3>
-<h4>Odyssey App Developer at Pantheon Inc (2022- ):</h4>
+<h4>Odyssey App Developer at Pantheon Inc (2022-present):</h4>
 <p>-Developed custom applications to streamline IT and business operations using the Odyssey digital automation platform</p>
-<h4>Full Stack Developer at Niki Broyles Art (2022- ):</h4>
+<h4>Full Stack Developer at Niki Broyles Art (2022-present):</h4>
 <p>-Developed a fine art gallery web experience using React.js/Redux and an express/Postgres database</p>
 <p>-Developed an ecommerce storefront using React.js/Redux/Stripe and an express/Postgres database</p>
 <h4>Full time student at Bloomtech (Full Stack Development bootcamp, 5 months, 2021-2022):</h4>
