@@ -1,4 +1,4 @@
-<h2> Key development knowledge: Javascript/Typescript, React/Angular, Redux/ContextAPI, RESTful APIs (express/NestJS), Node.js, JSON web tokens, cookies, HTTP requests, SQL, HTML, CSS, Bootstrap, CLI, git, bash </h2>
+<h2> Key development knowledge: </h2> <p>Javascript/Typescript, React/Angular, Redux/ContextAPI, RESTful APIs (express/NestJS), Node.js, JSON web tokens, cookies, HTTP requests, SQL, HTML, CSS, Bootstrap, CLI, git, bash </p>
 
 Development Work Experience 
 Odyssey App Developer at Pantheon Inc (2022- ):
