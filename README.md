@@ -1,6 +1,6 @@
 Key development knowledge: Javascript/Typescript, React/Angular, Redux/ContextAPI, RESTful APIs (express/NestJS), Node.js, JSON web tokens, cookies, HTTP requests, SQL, HTML, CSS, Bootstrap, CLI, git, bash
 
-Development Work Experience
+Development Work Experience //
 Odyssey App Developer at Pantheon Inc (2022- ):
 -Developed custom applications to streamline IT and business operations using the Odyssey digital automation platform 
 Full Stack Developer at Niki Broyles Art (2022- ): 
