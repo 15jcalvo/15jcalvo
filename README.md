@@ -1,9 +1,4 @@
-James Joaquin Calvo
-Chemist, Engineer, Developer
- 	15jcalvo@gmail.com  415-377-8381  Arlington, VA
-For a complete CV including publications, projects, etc. view my LinkedIn.
-I am a former academic currently seeking a front-end or full stack developer position. I am a builder who makes robust and functional structures whether I’m working on a web app, molecular framework, or framing a house. 
-Key knowledge: Javascript/Typescript, React/Angular, Redux/ContextAPI, RESTful APIs (express/NestJS), Node.js, JSON web tokens, cookies, HTTP requests, SQL, HTML, CSS, Bootstrap, CLI, git, bash
+Key development knowledge: Javascript/Typescript, React/Angular, Redux/ContextAPI, RESTful APIs (express/NestJS), Node.js, JSON web tokens, cookies, HTTP requests, SQL, HTML, CSS, Bootstrap, CLI, git, bash
 
 Development Work Experience
 Odyssey App Developer at Pantheon Inc (2022- ):
