@@ -3,9 +3,9 @@
 <h3>Development Work Experience</h3>
 <h4>Odyssey App Developer at Pantheon Inc (2022- ):</h4>
 <p>-Developed custom applications to streamline IT and business operations using the Odyssey digital automation platform</p>
-Full Stack Developer at Niki Broyles Art (2022- ): 
--Developed a fine art gallery web experience using React.js/Redux and an express/Postgres database
--Developed an ecommerce storefront using React.js/Redux/Stripe and an express/Postgres database
+<h4>Full Stack Developer at Niki Broyles Art (2022- ):</h4>
+<p>-Developed a fine art gallery web experience using React.js/Redux and an express/Postgres database</p>
+<p>-Developed an ecommerce storefront using React.js/Redux/Stripe and an express/Postgres database</p>
 Full time student at Bloomtech (Full Stack Development bootcamp, 5 months, 2021-2022):
 Each month-long unit consisted of daily hands-on projects, weekly challenge assessments, and a large project
 Unit 1- Basic HTML, CSS, and Javascript
